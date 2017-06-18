@@ -1,0 +1,8 @@
+- CONCERNS -----------------------------------------------------------------------------------------------------------------------------------------
+Do they own all the photographs? Specifically ICONYCBridge.jpg
+Do they own the logo?
+Remember to downsize/remove the jquery(ui)
+Remember to minify
+Failsafe in case CDN is down?
+Remember to make site usable with js disabled
+Look into Untappd for business opportunities (prosperitybrewers.com uses it)
